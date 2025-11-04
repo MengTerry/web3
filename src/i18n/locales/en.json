@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Home",
+    "discussion": "Community Forum",
+    "projects": "Projects",
+    "team": "Team",
+    "research": "Research"
+  },
+  "sidebar": {
+    "title": "DeepDetect",
+    "subtitle": "Aber Agri-Tech",
+    "activeResearch": "Active Research",
+    "activeResearchDesc": "Advancing agricultural technology through AI innovation"
+  },
+  "dashboard": {
+    "title": "Revolutionizing Agriculture",
+    "subtitle": "Through AI Innovation",
+    "description": "Advanced computer vision and AI systems for early disease detection, sustainable farming practices, and global food security.",
+    "exploreBtn": "Explore Projects",
+    "researchBtn": "View Research",
+    "stats": {
+      "activeProjects": "Active Projects",
+      "teamMembers": "Team Members",
+      "totalBudget": "Total Budget",
+      "avgProgress": "Avg Progress"
+    },
+    "recentActivity": "Recent Activity"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Research and Innovation in Agricultural Technology",
+    "filterAll": "All",
+    "filterActive": "Active",
+    "filterPlanning": "Planning",
+    "filterCompleted": "Completed",
+    "filterPaused": "Paused",
+    "progress": "Progress",
+    "team": "Team",
+    "milestones": "Milestones",
+    "budget": "Budget",
+    "objectives": "Objectives",
+    "viewDetails": "View Details"
+  },
+  "team": {
+    "title": "Our Research Team",
+    "subtitle": "Meet the experts behind the innovation",
+    "specialization": "Specialization",
+    "skills": "Skills",
+    "contact": "Contact",
+    "badgeLead": "LEAD",
+    "viewProfile": "View Profile",
+    "searchPlaceholder": "Search team members...",
+    "filters": {
+      "allRoles": "All Roles"
+    },
+    "stats": {
+      "totalMembers": "Total Members",
+      "teamLeads": "Team Leads",
+      "specializations": "Specializations",
+      "totalSkills": "Total Skills"
+    },
+    "roles": {
+      "principalInvestigator": "Principal Investigator (PI)",
+      "coInvestigator": "Co-Investigator",
+      "coInvestigatorIbers": "Co-Investigator, IBERS",
+      "researchFellow": "Research Fellow",
+      "researcherPhd": "Researcher & PhD Candidate"
+    },
+    "modal": {
+      "close": "Close profile dialog",
+      "about": "About",
+      "skills": "Skills & Expertise"
+    }
+  },
+  "forum": {
+    "title": "Agricultural Community Forum",
+    "subtitle": "Share your agricultural challenges and experiences - let's find solutions together!",
+    "placeholders": {
+      "topicTitle": "Topic title (optional)",
+      "email": "Your email (optional, so we can follow up)",
+      "message": "What agricultural issue would you like to discuss?"
+    },
+    "buttons": {
+      "post": "Post",
+      "sending": "Sending...",
+      "join": "Join Discussion",
+      "start": "Start New Discussion"
+    },
+    "errors": {
+      "emptyMessage": "Please enter a message before posting.",
+      "configMissing": "Email service is not configured. Please contact the site administrator."
+    },
+    "status": {
+      "success": "Thanks! Your message has been sent to the team.",
+      "error": "Something went wrong while sending your message. Please try again."
+    },
+    "email": {
+      "defaultSubject": "Agricultural Community Forum submission"
+    },
+    "categories": {
+      "all": "All Topics",
+      "disease": "Disease Control",
+      "climate": "Climate Impact",
+      "technology": "Technology",
+      "sustainable": "Sustainable Farming"
+    },
+    "labels": {
+      "replies_one": "{{count}} reply",
+      "replies_other": "{{count}} replies"
+    },
+    "cta": {
+      "title": "Have an agricultural problem to solve?",
+      "description": "Our community brings together farmers, researchers, and tech experts. Share your challenges, get expert advice, and drive agricultural innovation together!"
+    }
+  },
+  "research": {
+    "title": "Research & Innovation",
+    "subtitle": "Pioneering agricultural technology through rigorous research, field trials, and collaboration with academic and industry partners.",
+    "impactStats": {
+      "farms": "Partner Farms",
+      "farmsDesc": "Across Wales and UK",
+      "lossReduction": "Crop Loss Reduction",
+      "lossReductionDesc": "Average improvement",
+      "pesticideReduction": "Pesticide Reduction",
+      "pesticideReductionDesc": "More sustainable",
+      "funding": "Research Funding",
+      "fundingDesc": "Investment secured"
+    },
+    "areasTitle": "Research Areas",
+    "publicationsTitle": "Publications & Papers",
+    "methodologyTitle": "Our Research Methodology",
+    "methodology": {
+      "step1Title": "Data Collection",
+      "step1Desc": "Field visits, image capture, and environmental data gathering from partner farms",
+      "step2Title": "Model Development",
+      "step2Desc": "AI training, validation, and iterative improvement using latest techniques",
+      "step3Title": "Field Validation",
+      "step3Desc": "Real-world testing, farmer feedback, and impact measurement"
+    }
+  },
+  "footer": {
+    "about": "About",
+    "description": "Revolutionizing agriculture through AI-powered disease detection and sustainable farming solutions.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "researchFocus": "Research Focus",
+    "partners": "Our Partners",
+    "copyright": "DeepDetect Project - Aber Agri-Tech. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "accessibility": "Accessibility",
+    "location": "IBERS, Aberystwyth University, Ceredigion, SY23 3DA"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "backToTop": "Back to Top"
+  }
+}

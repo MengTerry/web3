@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(move:*)",
+      "Bash(move \"welsh 1.jpg\" \"public\\logos\\welsh-logo.jpg\")",
+      "Bash(move \"au-logo 1.svg\" \"public\\logos\\au-logo.svg\")",
+      "Bash(mv:*)",
+      "Bash(npm install:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run dev:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

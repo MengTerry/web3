@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Cartref",
+    "discussion": "Fforwm Cymunedol",
+    "projects": "Prosiectau",
+    "team": "Tîm",
+    "research": "Ymchwil"
+  },
+  "sidebar": {
+    "title": "DeepDetect",
+    "subtitle": "Aber Agri-Tech",
+    "activeResearch": "Ymchwil Weithredol",
+    "activeResearchDesc": "Datblygu technoleg amaethyddol trwy arloesi AI"
+  },
+  "dashboard": {
+    "title": "Chwyldro Amaethyddiaeth",
+    "subtitle": "Trwy Arloesi AI",
+    "description": "Systemau gweledigaeth cyfrifiadurol ac AI uwch ar gyfer canfod clefydau cynnar, arferion ffermio cynaliadwy, a diogelwch bwyd byd-eang.",
+    "exploreBtn": "Archwilio Prosiectau",
+    "researchBtn": "Gweld Ymchwil",
+    "stats": {
+      "activeProjects": "Prosiectau Gweithredol",
+      "teamMembers": "Aelodau'r Tîm",
+      "totalBudget": "Cyfanswm y Gyllideb",
+      "avgProgress": "Cyfartaledd Cynnydd"
+    },
+    "recentActivity": "Gweithgaredd Diweddar"
+  },
+  "projects": {
+    "title": "Prosiectau",
+    "subtitle": "Ymchwil ac Arloesi mewn Technoleg Amaethyddol",
+    "filterAll": "Pob Un",
+    "filterActive": "Gweithredol",
+    "filterPlanning": "Cynllunio",
+    "filterCompleted": "Wedi Cwblhau",
+    "filterPaused": "Wedi Oedi",
+    "progress": "Cynnydd",
+    "team": "Tîm",
+    "milestones": "Cerrig Milltir",
+    "budget": "Cyllideb",
+    "objectives": "Amcanion",
+    "viewDetails": "Gweld Manylion"
+  },
+  "team": {
+    "title": "Ein Tîm Ymchwil",
+    "subtitle": "Cwrdd â'r arbenigwyr y tu ôl i'r arloesedd",
+    "specialization": "Arbenigedd",
+    "skills": "Sgiliau",
+    "contact": "Cysylltu",
+    "badgeLead": "ARWEINYDD",
+    "viewProfile": "Gweld Proffil",
+    "searchPlaceholder": "Chwilio aelodau'r tîm...",
+    "filters": {
+      "allRoles": "Pob Rôl"
+    },
+    "stats": {
+      "totalMembers": "Cyfanswm Aelodau",
+      "teamLeads": "Arweinwyr Tîm",
+      "specializations": "Arbenigeddau",
+      "totalSkills": "Cyfanswm Sgiliau"
+    },
+    "roles": {
+      "principalInvestigator": "Prif Ymchwilydd (PI)",
+      "coInvestigator": "Cyd-ymchwilydd",
+      "coInvestigatorIbers": "Cyd-ymchwilydd, IBERS",
+      "researchFellow": "Cymrawd Ymchwil",
+      "researcherPhd": "Ymchwilydd a Myfyriwr PhD"
+    },
+    "modal": {
+      "close": "Cau deialog proffil",
+      "about": "Ynglŷn â",
+      "skills": "Sgiliau ac Arbenigedd"
+    }
+  },
+  "forum": {
+    "title": "Fforwm Cymunedol Amaethyddol",
+    "subtitle": "Rhannwch eich heriau a'ch profiadau amaethyddol – gadewch inni ddod o hyd i atebion gyda'n gilydd!",
+    "placeholders": {
+      "topicTitle": "Teitl y pwnc (dewisol)",
+      "email": "Eich e-bost (dewisol, er mwyn i ni gysylltu)",
+      "message": "Pa fater amaethyddol hoffech chi ei drafod?"
+    },
+    "buttons": {
+      "post": "Cyhoeddi",
+      "sending": "Anfon...",
+      "join": "Ymuno â'r Drafodaeth",
+      "start": "Dechrau Trafodaeth Newydd"
+    },
+    "errors": {
+      "emptyMessage": "Rhowch neges cyn ei chyhoeddi, os gwelwch yn dda.",
+      "configMissing": "Nid yw'r gwasanaeth e-bost wedi'i ffurfweddu. Cysylltwch â gweinyddwr y wefan."
+    },
+    "status": {
+      "success": "Diolch! Anfonwyd eich neges at y tîm.",
+      "error": "Aeth rhywbeth o'i le wrth anfon eich neges. Ceisiwch eto."
+    },
+    "email": {
+      "defaultSubject": "Cyflwyniad Fforwm Cymunedol Amaethyddol"
+    },
+    "categories": {
+      "all": "Pob Pwnc",
+      "disease": "Rheoli Clefydau",
+      "climate": "Effaith Hinsawdd",
+      "technology": "Technoleg",
+      "sustainable": "Ffermio Cynaliadwy"
+    },
+    "labels": {
+      "replies_one": "{{count}} ymateb",
+      "replies_other": "{{count}} ymatebion"
+    },
+    "cta": {
+      "title": "Oes gennych broblem amaethyddol i'w datrys?",
+      "description": "Mae ein cymuned yn dod â ffermwyr, ymchwilwyr ac arbenigwyr technoleg ynghyd. Rhannwch eich heriau, derbynwch gyngor gan arbenigwyr, a gyrrwch arloesedd amaethyddol ymlaen gyda'n gilydd!"
+    }
+  },
+  "research": {
+    "title": "Ymchwil ac Arloesi",
+    "subtitle": "Arloesi technoleg amaethyddol trwy ymchwil drylwyr, treialon maes, a chydweithrediad â phartneriaid academaidd a diwydiant.",
+    "impactStats": {
+      "farms": "Ffermydd Partner",
+      "farmsDesc": "Ar draws Cymru a'r DU",
+      "lossReduction": "Gostyngiad Colled Cnydau",
+      "lossReductionDesc": "Gwelliant cyfartalog",
+      "pesticideReduction": "Gostyngiad Plaladdwyr",
+      "pesticideReductionDesc": "Mwy cynaliadwy",
+      "funding": "Cyllid Ymchwil",
+      "fundingDesc": "Buddsoddiad wedi'i sicrhau"
+    },
+    "areasTitle": "Meysydd Ymchwil",
+    "publicationsTitle": "Cyhoeddiadau a Phapurau",
+    "methodologyTitle": "Ein Methodoleg Ymchwil",
+    "methodology": {
+      "step1Title": "Casglu Data",
+      "step1Desc": "Ymweliadau â'r maes, dal delwedd, a chasglu data amgylcheddol o ffermydd partner",
+      "step2Title": "Datblygu Model",
+      "step2Desc": "Hyfforddi AI, dilysu, a gwella iterus gan ddefnyddio technegau diweddaraf",
+      "step3Title": "Dilysu Maes",
+      "step3Desc": "Profi byd go iawn, adborth ffermwyr, a mesur effaith"
+    }
+  },
+  "footer": {
+    "about": "Amdanom",
+    "description": "Chwyldro amaethyddiaeth trwy ganfod clefydau wedi'i bweru gan AI a datrysiadau ffermio cynaliadwy.",
+    "quickLinks": "Dolenni Cyflym",
+    "contact": "Cysylltu",
+    "researchFocus": "Ffocws Ymchwil",
+    "partners": "Ein Partneriaid",
+    "copyright": "Prosiect DeepDetect - Aber Agri-Tech. Cedwir pob hawl.",
+    "privacy": "Polisi Preifatrwydd",
+    "terms": "Telerau Defnydd",
+    "accessibility": "Hygyrchedd",
+    "location": "IBERS, Prifysgol Aberystwyth, Ceredigion, SY23 3DA"
+  },
+  "common": {
+    "readMore": "Darllen Mwy",
+    "learnMore": "Dysgu Mwy",
+    "backToTop": "Nôl i'r Brig"
+  }
+}
